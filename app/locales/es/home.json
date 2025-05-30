@@ -1,0 +1,289 @@
+{
+  "HeroSection": {
+    "badge": "Hosting de Alto Rendimiento",
+    "titleLine1": "Hosting y dominios",
+    "titleLine2": "en Colombia",
+    "description": "Ofrecemos hosting rápido y seguro con cPanel, WordPress, Plesk, VPS y Reseller. También email corporativo premium, desarrollo web y más.",
+    "highlightText": "¡Descubre Moshipp!",
+    "primaryButton": "Ver planes",
+    "secondaryButton": "Contáctanos",
+    "partnersTitle": "Tecnologías que nos respaldan:",
+    "features": {
+      "uptime": "99.9% Uptime",
+      "ssl": "SSL Gratuito", 
+      "support": "Soporte 24/7",
+      "security": "Seguridad Avanzada"
+    }
+  },
+  "FeaturesSection": {
+    "titleLine1": "Todo lo que necesitas",
+    "titleLine2": "para tu presencia en línea",
+    "description": "En Moshipp, ofrecemos un servicio de hosting confiable y estable que garantiza que tu sitio web estará disponible para tus visitantes en todo momento.",
+    "features": [
+      {
+        "name": "Seguridad avanzada",
+        "description": "Utilizamos medidas de seguridad avanzadas para proteger tu sitio web de ataques malintencionados y de malware."
+      },
+      {
+        "name": "Rendimiento óptimo",
+        "description": "Nuestros servicios de hosting garantizan alta velocidad y un rendimiento óptimo para tu sitio web."
+      },
+      {
+        "name": "Soporte 24/7",
+        "description": "Nuestro equipo de soporte técnico está disponible las 24 horas del día, los 7 días de la semana para ayudarte."
+      },
+      {
+        "name": "Servidores confiables",
+        "description": "Accede a servidores rápidos y seguros que te brindarán una experiencia de usuario sin problemas."
+      },
+      {
+        "name": "Copias de seguridad",
+        "description": "Realizamos dos copias de seguridad semanales para garantizar que tus datos estén siempre protegidos."
+      },
+      {
+        "name": "Múltiples sitios web",
+        "description": "Administra múltiples sitios web con facilidad usando nuestros paneles de control intuitivos."
+      }
+    ]
+  },
+  "ServicesSection": {
+    "badge": "Soluciones de alojamiento",
+    "title": "Nuestros servicios",
+    "description": "Soluciones completas para tu presencia en línea con tecnología de última generación, rendimiento optimizado y soporte técnico especializado.",
+    "recommendedLabel": "Recomendado",
+    "viewPlansButton": "Ver planes",
+    "viewAllPlansButton": "Ver todos nuestros planes",
+    "categories": [
+      { "id": "destacados", "name": "Destacados" },
+      { "id": "hosting", "name": "Hosting Web" },
+      { "id": "servidores", "name": "Servidores" },
+      { "id": "email", "name": "Email Corporativo" },
+      { "id": "desarrollo", "name": "Desarrollo Web" }
+    ],
+    "services": {
+      "cloud-wordpress": {
+        "title": "Cloud WordPress",
+        "description": "Optimiza tu experiencia en WordPress con nuestro hosting administrado. Con herramientas avanzadas, seguridad de primer nivel y un rendimiento excepcional.",
+        "price": "Desde $14,000/mes",
+        "features": [
+          "Optimización específica para WP",
+          "Caché LiteSpeed integrado",
+          "Entorno PHP optimizado",
+          "Migración gratuita",
+          "Staging incluido"
+        ]
+      },
+      "hosting-plesk": {
+        "title": "Hosting Plesk",
+        "description": "Alojamiento web con Plesk Obsidian, interfaz intuitiva y herramientas avanzadas de desarrollo para gestionar tus sitios web fácilmente.",
+        "price": "Desde $14,000/mes",
+        "features": [
+          "Panel Plesk Obsidian",
+          "Docker integrado",
+          "Git y DevOps tools",
+          "Node.js y Python soporte",
+          "Firewall avanzado"
+        ]
+      },
+      "hosting-cpanel": {
+        "title": "Hosting cPanel",
+        "description": "Controla fácilmente tu alojamiento web con el panel de control más popular del mercado, con herramientas como el administrador de archivos, base de datos y correo.",
+        "price": "Desde $14,000/mes",
+        "features": [
+          "SSD NVMe ultrarrápido",
+          "Copias de seguridad semanales",
+          "Certificados SSL gratuitos",
+          "Soporte técnico estándar",
+          "Dominio gratis el primer año"
+        ]
+      },
+      "hosting-sd-cpanel": {
+        "title": "Hosting SD cPanel",
+        "description": "Controla fácilmente tu alojamiento web con el panel de control más popular del mercado, con herramientas como el administrador de archivos, base de datos y correo.",
+        "price": "Desde $50,000/anual",
+        "features": [
+          "SSD NVMe ultrarrápido",
+          "Copias de seguridad semanales",
+          "Certificados SSL gratuitos",
+          "Soporte técnico estándar"
+        ]
+      },
+      "hosting-sd-plesk": {
+        "title": "Hosting SD Plesk",
+        "description": "Alojamiento web con Plesk Obsidian, interfaz intuitiva y herramientas avanzadas de desarrollo para gestionar tus sitios web fácilmente.",
+        "price": "Desde $45,000/anual",
+        "features": [
+          "Panel Plesk Obsidian",
+          "Docker integrado",
+          "Git y DevOps tools",
+          "Node.js y Python soporte",
+          "Firewall avanzado"
+        ]
+      },
+      "hosting-empresarial": {
+        "title": "Hosting Empresarial",
+        "description": "Soluciones de alojamiento para empresas con altos requisitos de rendimiento, seguridad avanzada y recursos dedicados para tus aplicaciones críticas.",
+        "price": "Desde $220,000/anual",
+        "features": [
+          "Recursos garantizados",
+          "Alta disponibilidad",
+          "Firewall dedicado",
+          "Consultor personal asignado",
+          "Monitoreo 24/7"
+        ]
+      },
+      "reseller-hosting": {
+        "title": "Reseller Hosting cPanel",
+        "description": "Solución completa para revendedores de hosting con cPanel/WHM, marca blanca personalizable y soporte técnico 24/7 para tus clientes.",
+        "price": "Desde $40,000/mes",
+        "features": [
+          "WHM incluido",
+          "Cuentas ilimitadas",
+          "WHMCS opcional",
+          "Marca blanca",
+          "Recursos escalables"
+        ]
+      },
+      "reseller-hosting-plesk": {
+        "title": "Reseller Hosting Plesk",
+        "description": "Solución completa para revendedores de hosting con Plesk Obsidian, marca blanca personalizable y soporte técnico 24/7 para tus clientes.",
+        "price": "Desde $40,000/mes",
+        "features": [
+          "Plesk Obsidian incluido",
+          "Cuentas ilimitadas",
+          "WHMCS opcional",
+          "Marca blanca",
+          "Recursos escalables"
+        ]
+      },
+      "vps-hosting": {
+        "title": "VPS Hosting",
+        "description": "Servidores Virtuales Privados con recursos garantizados, acceso root completo y escalabilidad inmediata para mayor control y rendimiento.",
+        "price": "Desde $35,000/mes",
+        "features": [
+          "CPU y RAM garantizados",
+          "SSD NVMe ultrarrápido",
+          "Escalamiento vertical",
+          "Panel de control incluido",
+          "Backups automáticos"
+        ]
+      },
+      "servidores-dedicados": {
+        "title": "Servidores Dedicados",
+        "description": "Soluciones de alto rendimiento con servidores dedicados, ideales para aplicaciones críticas y cargas de trabajo intensivas, con soporte técnico especializado.",
+        "price": "Desde $82,000/mes",
+        "features": [
+          "Hardware de última generación",
+          "Recursos dedicados",
+          "Configuración personalizada",
+          "Soporte técnico estándar",
+          "Monitoreo proactivo"
+        ]
+      },
+      "vps-n8n": {
+        "title": "VPS con N8N",
+        "description": "Servidores optimizados para N8N, la potente plataforma de automatización de flujos de trabajo sin código para integraciones y automatizaciones.",
+        "price": "Desde $40,000/mes",
+        "features": [
+          "N8N preinstalado",
+          "Configuración optimizada",
+          "Actualizaciones automáticas",
+          "Monitoreo específico",
+          "Alta disponibilidad opcional"
+        ]
+      },
+      "microsoft365": {
+        "title": "Microsoft 365",
+        "description": "Correo corporativo premium con Microsoft 365, incluyendo herramientas de productividad y colaboración en la nube para empresas de cualquier tamaño.",
+        "price": "Desde $90,000/anual",
+        "features": [
+          "Exchange Online",
+          "Office 365 completo",
+          "Teams integrado",
+          "OneDrive 1TB",
+          "Soporte Premium"
+        ]
+      },
+      "google-workspace": {
+        "title": "Google Workspace",
+        "description": "Solución de correo empresarial con Google Workspace, integración con todas las herramientas de Google y almacenamiento en la nube escalable.",
+        "price": "Desde $90,000/anual",
+        "features": [
+          "Gmail profesional",
+          "Google Drive",
+          "Meet y Chat",
+          "Docs, Sheets, Slides",
+          "Administración centralizada"
+        ]
+      },
+      "desarrollo-web": {
+        "title": "Desarrollo Web",
+        "description": "Creamos soluciones web a medida con tecnologías como WordPress, Node.js y Angular, adaptándonos a tus necesidades para un resultado optimizado.",
+        "price": "Proyectos personalizados",
+        "features": [
+          "Diseño personalizado",
+          "SEO optimizado",
+          "Responsive design",
+          "Integraciones API",
+          "Soporte post-lanzamiento"
+        ]
+      }
+    }
+  },
+  "StatsSection": {
+    "stats": [
+      {
+        "value": "99.9%",
+        "label": "Uptime garantizado"
+      },
+      {
+        "value": "5000+",
+        "label": "Clientes satisfechos"
+      },
+      {
+        "value": "10000+",
+        "label": "Sitios web alojados"
+      },
+      {
+        "value": "8+",
+        "label": "Años de experiencia"
+      }
+    ]
+  },
+   "TestimonialsSection": {
+    "title": "Lo que dicen nuestros clientes",
+    "description": "Miles de clientes satisfechos confían en Moshipp para sus necesidades de hosting.",
+    "navigation": {
+      "prev": "Testimonio anterior",
+      "next": "Siguiente testimonio",
+      "goTo": "Ir al testimonio"
+    },
+    "testimonials": [
+      {
+        "content": "Moshipp ha sido mi proveedor de hosting desde hace más de un año, y no puedo estar más contento. Su servicio es rápido, seguro y confiable, y el equipo de soporte técnico siempre está ahí cuando los necesito.",
+        "author": "Carlos Rodríguez",
+        "role": "Desarrollador web"
+      },
+      {
+        "content": "Estaba buscando un servicio de hosting flexible y asequible, y Moshipp superó todas mis expectativas. Su plataforma fácil de usar y su equipo de soporte técnico excepcional me han ayudado a llevar mi negocio al siguiente nivel.",
+        "author": "Ana Martínez",
+        "role": "Propietaria de tienda online"
+      },
+      {
+        "content": "Desde que migré mi sitio web a Moshipp, he notado una gran mejora en la velocidad y la seguridad de mi sitio. Estoy muy contento con su servicio, y lo recomendaría a cualquier persona que busque un hosting de calidad superior.",
+        "author": "Juan Pérez",
+        "role": "Blogger de tecnología"
+      },
+      {
+        "content": "Moshipp ha sido una verdadera bendición para mi negocio en línea. Su servicio de hosting de alta calidad y su soporte técnico excepcional me han permitido concentrarme en hacer crecer mi negocio en lugar de preocuparme por problemas técnicos.",
+        "author": "Laura González",
+        "role": "Consultora de marketing digital"
+      },
+      {
+        "content": "No puedo decir suficientes cosas buenas sobre Moshipp. Su servicio de hosting ha sido excelente, y su equipo de soporte técnico siempre ha estado ahí para ayudarme cuando los necesito. ¡Recomiendo Moshipp a cualquiera que busque un hosting confiable y de calidad!",
+        "author": "Miguel Hernández",
+        "role": "Diseñador gráfico"
+      }
+    ]
+  }
+}

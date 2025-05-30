@@ -1,0 +1,19 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services", 
+    "support": "Support",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "select_plan": "Select plan",
+    "contact_support": "Contact support",
+    "learn_more": "Learn more"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "try_again": "Try again"
+  }
+}

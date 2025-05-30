@@ -1,0 +1,290 @@
+{
+  "HeroSection": {
+    "badge": "High Performance Hosting",
+    "titleLine1": "Hosting and domains",
+    "titleLine2": "in Colombia",
+    "description": "We offer fast and secure hosting with cPanel, WordPress, Plesk, VPS and Reseller. Also premium corporate email, web development and more.",
+    "highlightText": "Discover Moshipp!",
+    "primaryButton": "View plans",
+    "secondaryButton": "Contact us",
+    "partnersTitle": "Technologies that support us:",
+    "features": {
+      "uptime": "99.9% Uptime",
+      "ssl": "Free SSL",
+      "support": "24/7 Support", 
+      "security": "Advanced Security"
+    }
+  },
+  "FeaturesSection": {
+    "titleLine1": "Everything you need",
+    "titleLine2": "for your online presence",
+    "description": "At Moshipp, we offer a reliable and stable hosting service that ensures your website will be available to your visitors at all times.",
+    "features": [
+      {
+        "name": "Advanced security",
+        "description": "We use advanced security measures to protect your website from malicious attacks and malware."
+      },
+      {
+        "name": "Optimal performance",
+        "description": "Our hosting services guarantee high speed and optimal performance for your website."
+      },
+      {
+        "name": "24/7 Support",
+        "description": "Our technical support team is available 24 hours a day, 7 days a week to help you."
+      },
+      {
+        "name": "Reliable servers",
+        "description": "Access fast and secure servers that will provide you with a seamless user experience."
+      },
+      {
+        "name": "Backups",
+        "description": "We perform two weekly backups to ensure your data is always protected."
+      },
+      {
+        "name": "Multiple websites",
+        "description": "Manage multiple websites easily using our intuitive control panels."
+      }
+    ]
+  },
+   "ServicesSection": {
+    "badge": "Hosting solutions",
+    "title": "Our services",
+    "description": "Complete solutions for your online presence with cutting-edge technology, optimized performance and specialized technical support.",
+    "recommendedLabel": "Recommended",
+    "viewPlansButton": "View plans",
+    "viewAllPlansButton": "View all our plans",
+    "categories": [
+      { "id": "destacados", "name": "Featured" },
+      { "id": "hosting", "name": "Web Hosting" },
+      { "id": "servidores", "name": "Servers" },
+      { "id": "email", "name": "Corporate Email" },
+      { "id": "desarrollo", "name": "Web Development" }
+    ],
+    "services": {
+      "cloud-wordpress": {
+        "title": "Cloud WordPress",
+        "description": "Optimize your WordPress experience with our managed hosting. With advanced tools, top-tier security and exceptional performance.",
+        "price": "From $14,000/month",
+        "features": [
+          "WordPress-specific optimization",
+          "Integrated LiteSpeed cache",
+          "Optimized PHP environment",
+          "Free migration",
+          "Staging included"
+        ]
+      },
+      "hosting-plesk": {
+        "title": "Plesk Hosting",
+        "description": "Web hosting with Plesk Obsidian, intuitive interface and advanced development tools to easily manage your websites.",
+        "price": "From $14,000/month",
+        "features": [
+          "Plesk Obsidian panel",
+          "Integrated Docker",
+          "Git and DevOps tools",
+          "Node.js and Python support",
+          "Advanced firewall"
+        ]
+      },
+      "hosting-cpanel": {
+        "title": "cPanel Hosting",
+        "description": "Easily control your web hosting with the market's most popular control panel, with tools like file manager, database and email.",
+        "price": "From $14,000/month",
+        "features": [
+          "Ultra-fast NVMe SSD",
+          "Weekly backups",
+          "Free SSL certificates",
+          "Standard technical support",
+          "Free domain first year"
+        ]
+      },
+      "hosting-sd-cpanel": {
+        "title": "SD cPanel Hosting",
+        "description": "Easily control your web hosting with the market's most popular control panel, with tools like file manager, database and email.",
+        "price": "From $50,000/year",
+        "features": [
+          "Ultra-fast NVMe SSD",
+          "Weekly backups",
+          "Free SSL certificates",
+          "Standard technical support"
+        ]
+      },
+      "hosting-sd-plesk": {
+        "title": "SD Plesk Hosting",
+        "description": "Web hosting with Plesk Obsidian, intuitive interface and advanced development tools to easily manage your websites.",
+        "price": "From $45,000/year",
+        "features": [
+          "Plesk Obsidian panel",
+          "Integrated Docker",
+          "Git and DevOps tools",
+          "Node.js and Python support",
+          "Advanced firewall"
+        ]
+      },
+      "hosting-empresarial": {
+        "title": "Enterprise Hosting",
+        "description": "Hosting solutions for companies with high performance requirements, advanced security and dedicated resources for your critical applications.",
+        "price": "From $220,000/year",
+        "features": [
+          "Guaranteed resources",
+          "High availability",
+          "Dedicated firewall",
+          "Assigned personal consultant",
+          "24/7 monitoring"
+        ]
+      },
+      "reseller-hosting": {
+        "title": "cPanel Reseller Hosting",
+        "description": "Complete solution for hosting resellers with cPanel/WHM, customizable white label and 24/7 technical support for your clients.",
+        "price": "From $40,000/month",
+        "features": [
+          "WHM included",
+          "Unlimited accounts",
+          "Optional WHMCS",
+          "White label",
+          "Scalable resources"
+        ]
+      },
+      "reseller-hosting-plesk": {
+        "title": "Plesk Reseller Hosting",
+        "description": "Complete solution for hosting resellers with Plesk Obsidian, customizable white label and 24/7 technical support for your clients.",
+        "price": "From $40,000/month",
+        "features": [
+          "Plesk Obsidian included",
+          "Unlimited accounts",
+          "Optional WHMCS",
+          "White label",
+          "Scalable resources"
+        ]
+      },
+      "vps-hosting": {
+        "title": "VPS Hosting",
+        "description": "Private Virtual Servers with guaranteed resources, full root access and immediate scalability for greater control and performance.",
+        "price": "From $35,000/month",
+        "features": [
+          "Guaranteed CPU and RAM",
+          "Ultra-fast NVMe SSD",
+          "Vertical scaling",
+          "Control panel included",
+          "Automatic backups"
+        ]
+      },
+      "servidores-dedicados": {
+        "title": "Dedicated Servers",
+        "description": "High-performance solutions with dedicated servers, ideal for critical applications and intensive workloads, with specialized technical support.",
+        "price": "From $82,000/month",
+        "features": [
+          "Latest generation hardware",
+          "Dedicated resources",
+          "Custom configuration",
+          "Standard technical support",
+          "Proactive monitoring"
+        ]
+      },
+      "vps-n8n": {
+        "title": "VPS with N8N",
+        "description": "Servers optimized for N8N, the powerful no-code workflow automation platform for integrations and automations.",
+        "price": "From $40,000/month",
+        "features": [
+          "Pre-installed N8N",
+          "Optimized configuration",
+          "Automatic updates",
+          "Specific monitoring",
+          "Optional high availability"
+        ]
+      },
+      "microsoft365": {
+        "title": "Microsoft 365",
+        "description": "Premium corporate email with Microsoft 365, including cloud productivity and collaboration tools for businesses of any size.",
+        "price": "From $90,000/year",
+        "features": [
+          "Exchange Online",
+          "Complete Office 365",
+          "Integrated Teams",
+          "OneDrive 1TB",
+          "Premium Support"
+        ]
+      },
+      "google-workspace": {
+        "title": "Google Workspace",
+        "description": "Business email solution with Google Workspace, integration with all Google tools and scalable cloud storage.",
+        "price": "From $90,000/year",
+        "features": [
+          "Professional Gmail",
+          "Google Drive",
+          "Meet and Chat",
+          "Docs, Sheets, Slides",
+          "Centralized administration"
+        ]
+      },
+      "desarrollo-web": {
+        "title": "Web Development",
+        "description": "We create custom web solutions with technologies like WordPress, Node.js and Angular, adapting to your needs for an optimized result.",
+        "price": "Custom projects",
+        "features": [
+          "Custom design",
+          "SEO optimized",
+          "Responsive design",
+          "API integrations",
+          "Post-launch support"
+        ]
+      }
+    }
+  },
+   "StatsSection": {
+    "stats": [
+      {
+        "value": "99.9%",
+        "label": "Guaranteed uptime"
+      },
+      {
+        "value": "5000+",
+        "label": "Satisfied customers"
+      },
+      {
+        "value": "10000+",
+        "label": "Hosted websites"
+      },
+      {
+        "value": "8+",
+        "label": "Years of experience"
+      }
+    ]
+  },
+   "TestimonialsSection": {
+    "title": "What our customers say",
+    "description": "Thousands of satisfied customers trust Moshipp for their hosting needs.",
+    "navigation": {
+      "prev": "Previous testimonial",
+      "next": "Next testimonial",
+      "goTo": "Go to testimonial"
+    },
+    "testimonials": [
+      {
+        "content": "Moshipp has been my hosting provider for over a year, and I couldn't be happier. Their service is fast, secure and reliable, and the technical support team is always there when I need them.",
+        "author": "Carlos Rodríguez",
+        "role": "Web developer"
+      },
+      {
+        "content": "I was looking for a flexible and affordable hosting service, and Moshipp exceeded all my expectations. Their easy-to-use platform and exceptional technical support team have helped me take my business to the next level.",
+        "author": "Ana Martínez",
+        "role": "Online store owner"
+      },
+      {
+        "content": "Since I migrated my website to Moshipp, I have noticed a great improvement in the speed and security of my site. I am very happy with their service, and would recommend it to anyone looking for superior quality hosting.",
+        "author": "Juan Pérez",
+        "role": "Technology blogger"
+      },
+      {
+        "content": "Moshipp has been a real blessing for my online business. Their high-quality hosting service and exceptional technical support have allowed me to focus on growing my business instead of worrying about technical issues.",
+        "author": "Laura González",
+        "role": "Digital marketing consultant"
+      },
+      {
+        "content": "I can't say enough good things about Moshipp. Their hosting service has been excellent, and their technical support team has always been there to help me when I need them. I recommend Moshipp to anyone looking for reliable, quality hosting!",
+        "author": "Miguel Hernández",
+        "role": "Graphic designer"
+      }
+    ]
+  }
+  
+}
